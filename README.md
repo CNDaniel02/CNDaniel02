@@ -1,53 +1,73 @@
 # Hi, I'm Dongmin Wu 👋  
-🎓 M.S. Mathematical Data Science @ USC  
-🎓 B.S. Statistics @UCD
-🎓 B.S. Mathematics @UCD
-📊 Data Analyst / Data Scientist / Machine Learning Enthusiast  
 
-I’m passionate about transforming data into insights and visual stories.  
-My projects focus on statistical modeling, visualization, and machine learning applications.
+🎓 M.S. in Mathematical Data Science @ USC  
+🎓 B.S. in Statistics & Mathematics @ UC Davis  
+
+I have a **solid academic background in mathematics, data analysis, statistics, and machine learning**, 
+I am currently focusing most of my time on **AI application development**, including RAG systems, agent-based workflows, and AI-powered products.
+
 
 ---
 
-### 🧠 Skills
-**Languages:** Python, R, SQL
-**Tools:** Tableau, Looker Studio, Excel, Git, SQLite, PostgreSQL  
-**Libraries:** pandas, numpy, sklearn, ggplot2 etc.
+## 🧭 Background & Current Focus
+
+**Background**
+- Data analysis & visualization
+- Statistical modeling & inference
+- Machine learning fundamentals
+- Time series forecasting & regression
+
+**Current Focus**
+- AI application development with LLMs
+- Retrieval-Augmented Generation (RAG)
+- Agent-based systems & AI workflows
+- AI product & system design
+- Startup-oriented AI deployment
 
 ---
 
-### 🚀 Featured Projects
+## 🧠 Skills
 
-| Project | Description | Tools |
-|----------|--------------|--------|
-| [🏡 SoCal Housing Price Forecast](https://github.com/CNDaniel02/TimeSeries-HousePricePrediction) | 30-year housing trend forecasting with ARMA & Box-Cox models | R, Time Series |
-| [💼 Data Science Salary Prediction](https://github.com/CNDaniel02/ML_Salaries) | Salary prediction web app with regression models and Flask | Python, Flask, sklearn |
-| [🌎 Global Mortality Insights](https://github.com/CNDaniel02/DataScience-global-mortality-insights) | Interactive EDA of WHO data | R, ggplot2 |
-| [📈 Regression & ANOVA Studies](https://github.com/CNDaniel02/Regression_Analysis) | UC Davis coursework projects demonstrating statistical modeling | R |
+**Languages**  
+Python, R, SQL
+
+**Data & ML**
+pandas, numpy, sklearn, ggplot2, statistical modeling, EDA
+
+**AI & LLM**
+LangChain, LlamaIndex, RAG, Embeddings, Vector Databases  
+Coze, Dify, n8n, 影刀 RPA  
+MCP (Model Context Protocol), A2A Protocol  
+Neo4j + LLM integration
+
+**Tools**
+Tableau, Looker Studio, Excel, Git  
+SQLite, PostgreSQL
 
 ---
 
-👯 I’m looking to collaborate on
+## 🚀 Featured Projects
+
+| Project | Description | Focus |
+|------|------|------|
+| 🤖 [RagHop](https://github.com/CNDaniel02/RagHop) | Modular RAG system with embeddings and retrieval pipelines | AI / RAG |
+| 🧠 [NL2Cypher with Neo4j](https://github.com/CNDaniel02/neo4j-nl2cypher-llm) | LLM-based natural language to Cypher for graph databases | AI + Graph |
+| 🛒 [PikThrift (Startup Project)](https://github.com/CNDaniel02/Entrepreneur2-PikThrift) | Deployed e-commerce system supporting startup experiments | Full-stack / Startup |
+| 🏡 [SoCal Housing Price Forecast](https://github.com/CNDaniel02/TimeSeries-HousePricePrediction) | Long-term housing price forecasting with ARMA & Box-Cox | Data Science |
+| 📊 [Regression & ANOVA Studies](https://github.com/CNDaniel02/Regression_Analysis) | Statistical modeling coursework projects | Statistics |
 
 ---
 
-### 🔗 Links
-🌐 [Website / Portfolio](https://cndaniel02.github.io/Portfolio)  
-💼 [LinkedIn](https://www.linkedin.com/in/dongmin-wu-7811452a2)  
-📧 dongminw@usc.edu
+## 🔍 Interests Going Forward
+- Deeper AI system engineering
+- AI + data-driven decision systems
+- Enterprise RAG & agent deployment
+- Continued learning in ML & statistical modeling
 
+---
 
-<!--
-**CNDaniel02/CNDaniel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Links
+💼 LinkedIn: https://www.linkedin.com/in/dongmin-wu-7811452a2  
+📧 Email: dongminw@usc.edu  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟢 Open to internship / part-time / AI & data-related collaboration
