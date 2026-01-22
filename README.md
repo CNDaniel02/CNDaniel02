@@ -4,6 +4,7 @@
 🎓 B.S. in Statistics & Mathematics @ UC Davis  
 
 I have a **solid academic background in mathematics, data analysis, statistics, and machine learning**, 
+
 I am currently focusing most of my time on **AI application development**, including RAG systems, agent-based workflows, and AI-powered products.
 
 
@@ -28,21 +29,37 @@ I am currently focusing most of my time on **AI application development**, inclu
 
 ## 🧠 Skills
 
-**Languages**  
-Python, R, SQL
+### 🤖 AI Application & Agent Systems (Current Focus)
+- LLM application development
+- Retrieval-Augmented Generation (RAG)
+- Embeddings & Vector Databases
+- Agent-based architectures
+- AI workflow orchestration (n8n, RPA)
+- AI product & system design
+- MCP (Model Context Protocol), A2A Protocol
 
-**Data & ML**
-pandas, numpy, sklearn, ggplot2, statistical modeling, EDA
+### 🛠 AI & Engineering Stack
+- LangChain, LlamaIndex
+- Coze, Dify, n8n
+- Neo4j + LLM integration
+- Python-based AI pipelines
+- API integration & system deployment
+- Saleor-based startup deployment
 
-**AI & LLM**
-LangChain, LlamaIndex, RAG, Embeddings, Vector Databases  
-Coze, Dify, n8n, 影刀 RPA  
-MCP (Model Context Protocol), A2A Protocol  
-Neo4j + LLM integration
+### 📊 Data Science & ML Foundations
+- Data analysis & visualization
+- Statistical modeling & inference
+- Machine learning fundamentals
+- Time series analysis & forecasting
+- Regression, ANOVA, EDA
 
-**Tools**
-Tableau, Looker Studio, Excel, Git  
-SQLite, PostgreSQL
+### 💻 Programming & Data Tools
+- Python, R, SQL
+- pandas, numpy, sklearn, ggplot2
+- PostgreSQL, SQLite
+- Tableau, Looker Studio, Excel
+- Git
+
 
 ---
 
